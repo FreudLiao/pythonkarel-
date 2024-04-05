@@ -1,6 +1,6 @@
 """
 File: MoveToTheEnd.py
-Name: TODO:
+Name: 廖禹睿:
 ------------------------
 This file shows how to use while loop
 to walk to the end of a certain row in
@@ -11,10 +11,8 @@ from karel.stanfordkarel import *
 
 
 def main():
-    """
-    TODO:
-    """
-    pass
+    for i in range(7):
+        move()
 
 
 # ----- DO NOT MODIFY CODE BELOW THIS LINE ----- #
