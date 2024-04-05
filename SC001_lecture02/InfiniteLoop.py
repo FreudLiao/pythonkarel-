@@ -1,6 +1,6 @@
 """
 File: InfiniteLoop.py
-Name: Jerry Liao
+Name: 廖禹睿
 ------------------------
 This file shows the idea of infinite loop,
 reminding students one of the 3 bugs in using
