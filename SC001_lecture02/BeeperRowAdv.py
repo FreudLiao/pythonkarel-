@@ -1,6 +1,6 @@
 """
 File: BeeperRowAdv.py
-Name:
+Name:廖禹睿
 ------------------------------
 This program makes Karel fill up
 Street 1 with some beepers already
