@@ -1,5 +1,4 @@
-# pythonkarel-
-# 廖禹睿 自主學習成果
+# python-karel
 ## Project Source Codes:
 * [PotHoleFilling](SC001_lecture01/PotholeFilling.py)
 * [StepUp](SC001_lecture01/StepUp.py)
